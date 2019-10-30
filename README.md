@@ -1,1 +1,7 @@
 # Ensemble-Classifier-for-Multi-Class-Emotion-Classification
+
+ABSTRACT:
+
+The profusion of social media textual content coupled with emotion mining methodologies, present exciting opportunities for researches to unveil the hidden emotions behind these texts. Despite recent growth and development in the field of Textual Emotion Mining (TEM), previous studies of emotion classification mainly focused on the use of simple classifiers over Ekman (6 emotions) or Plutchik (8 emotions) emotion models. In this study, Parrott's hierarchy of emotion is utilized to build three emotion-labelled datasets of tweets corresponding to three levels(primary, secondary and tertiary) of emotion categories. We then present an ensemble-classifier based approach for multiclass textual emotion classification problem. The ensemble was created using four diverse classifiers including naive bayes, multiclass SVM, logistic regression and SGDunder three algorithms bagging, boosting and voting, in order to constitute a promising model which combines the benefits of base classifiers. The experimental investigation over three crawled datasets of hashtag-annotated english tweets, showed promising results and indicated that the proposed ensemble-classifier based approach improved the performance of base learners. Also, voting proved to be most suitable and outperformed both bagging and boosting ensembles.
+
+Published in: 2018 7th International Conference on Reliability, Infocom Technologies and Optimization (Trends and Future Directions) (ICRITO)
